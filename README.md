@@ -3,7 +3,6 @@
 ## Ik
 
 <details open>
-  ## <summary>Ik</summary>
 
   ### Auteur:
   Naoufal Bchiri
@@ -19,7 +18,6 @@
 ## Je website
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
   [https://www.songsterr.com/]
