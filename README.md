@@ -1,9 +1,9 @@
 # Procesverslag
 
-## Jij
+## Ik
 
 <details open>
-  <summary>uitwerken voor kick-off werkgroep</summary>
+  ## <summary>Ik</summary>
 
   ### Auteur:
   Naoufal Bchiri
