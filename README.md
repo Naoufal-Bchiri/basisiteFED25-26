@@ -22,15 +22,15 @@
   <summary>uitwerken voor kick-off werkgroep</summary>
 
   ### Je opdracht:
-  link naar de website die je gaat namaken óf de naam/omschrijving van je eigen ontwerp
+  [https://www.songsterr.com/]
 
   #### Screenshot(s) van de eerste pagina (small screen): 
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Nummer Selectie Pagina  
+  <img src="readme-images/songsterr.png" width="375px" alt="nummer selectie scherm">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  hier de naam van de pagina  
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="omschrijving van de pagina">
+  Tablatuur van Nummer  
+  <img src="readme-images/songsterr1.png" width="375px" alt="tablatuur van gekozen nummer">
  
 </details>
 
