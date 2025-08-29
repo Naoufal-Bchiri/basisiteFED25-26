@@ -1,6 +1,4 @@
 # Procesverslag
-Markdown is een simpele manier om HTML te schrijven.  
-Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
 ## Jij
 
@@ -17,10 +15,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
   Responsive
  
 </details>
-
-
-
-
 
 ## Je website
 
@@ -40,8 +34,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
  
 </details>
 
-
-
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
@@ -51,8 +43,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
   Lijst met je bevindingen die in de test naar voren kwamen:
 
 </details>
-
-
 
 ## Breakdownschets (week 1)
 
@@ -69,10 +59,6 @@ Markdown cheat cheet: [Hulp bij het schrijven van Markdown](https://github.com/a
   <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
-
-
-
-
 
 ## Voortgang 1 (week 2)
 
