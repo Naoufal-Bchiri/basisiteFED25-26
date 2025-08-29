@@ -12,7 +12,7 @@
   Zwart
 
   #### Je focus:
-  Responsive
+  Surface
  
 </details>
 
