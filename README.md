@@ -20,15 +20,13 @@
 <details open>
 
   ### Je opdracht:
-  [https://www.songsterr.com/]
+  [Legend of Zelda: Echoes of Wisdom](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch)
 
-  #### Screenshot(s) van de eerste pagina (small screen): 
-  Nummer Selectie Pagina  
-  <img src="readme-images/songsterr.png" width="375px" alt="nummer selectie scherm">
+  #### Screenshot(s) van de eerste pagina (small screen):
+  <img src="readme-images/lozeow.png" width="375px" alt="">
 
   #### Screenshot(s) van de tweede pagina (small screen):
-  Tablatuur van Nummer  
-  <img src="readme-images/songsterr1.png" width="375px" alt="tablatuur van gekozen nummer">
+  <img src="readme-images/lozeow1.png" width="375px" alt="">
  
 </details>
 
@@ -48,13 +46,17 @@
   <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
 
   ### de hele pagina: 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van de hele pagina">
+  <img src="readme-images/breakdownbreakdown.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van een dynamisch deel">
+  ### dynamisch deel (bijv menu):
+  Mobile only menu
+  
+  <img src="readme-images/nintendomobilemenu.png" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter): 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="breakdown van nog een dynamisch deel">
+  ### wellicht nog een dynamisch deel (bijv filter):
+  Bewegend met scroll
+  
+  <img src="readme-images/racinghonse.png" width="375px" alt="breakdown van nog een dynamisch deel">
 
 </details>
 
