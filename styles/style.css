@@ -4,17 +4,17 @@
 
 @font-face {
   font-family: jimbo-condensed-std;
-  src: url(./font/jimboStdCondensed.otf);
+  src: url(../font/jimboStdCondensed.otf);
 }
 
 @font-face {
   font-family: DMSans;
-  src: url(./font/DMSans.ttf);
+  src: url(../font/DMSans.ttf);
 }
 
 @font-face {
   font-family: MuseoSans;
-  src: url(./font/MuseoSans.otf);
+  src: url(../font/MuseoSans.otf);
 }
 
 :root {
@@ -196,12 +196,12 @@ header nav:last-of-type div:first-of-type path {
 /*First article*/
 
 main > article:first-of-type {
-	background-image: url(./img/tile-gold.avif);
+	background-image: url(../img/tile-gold.avif);
 	padding: .1rem;
 }
 
 article:first-of-type > div:first-of-type, article:first-of-type > div:last-of-type, article:nth-of-type(4) > div:first-of-type, article:nth-of-type(5) > div:first-of-type, article:nth-of-type(5) > div:nth-of-type(2) {
-	background-image: url(./img/tile-divider-4.png);
+	background-image: url(../img/tile-divider-4.png);
 	background-repeat: repeat;
 	background-size: 10rem 1.2rem;
 	height: 1.2rem;
@@ -250,7 +250,7 @@ article:first-of-type div:nth-of-type(2) div {
 /*Second article*/
 
 article:nth-of-type(2) {
-	background-image: url(./img/tile-blue.avif);
+	background-image: url(../img/tile-blue.avif);
 	background-size: 40vw;
 	display: flex;
 	align-items: center;
@@ -266,7 +266,7 @@ article:nth-of-type(2) > div:nth-of-type(2) div {
 
 article:nth-of-type(2) video {
 	border: 0;
-	background-image: url(./img/video-container-phase-two.png);
+	background-image: url(../img/video-container-phase-two.png);
 	background-repeat: no-repeat;
 	background-size: 100%;
 	padding: 3vw 1vw;
@@ -315,7 +315,7 @@ article:nth-of-type(2) button:hover, article:nth-of-type(2) button:focus {
 /*Third article*/
 
 article:nth-of-type(3) {
-	background-image: url(./img/tile-brown-triangles.avif);
+	background-image: url(../img/tile-brown-triangles.avif);
 	background-size: 15vw;
 	display: flex;
 	align-items: center;
@@ -352,7 +352,7 @@ article:nth-of-type(3) section:last-of-type {
 	display: flex;
 	align-items: center;
 	flex-direction: column;
-	background-image: url(./img/tile-blue.avif);
+	background-image: url(../img/tile-blue.avif);
 	width: 100%;
 }
 
@@ -425,7 +425,7 @@ article:nth-of-type(3) > div div, article:nth-of-type(3) section:last-of-type di
 /*Fourth article*/
 
 article:nth-of-type(4) {
-	background-image: url(./img/tile-beige.avif);
+	background-image: url(../img/tile-beige.avif);
 	margin-top: -2rem;
 	padding-top: 6rem;
 	display: flex;
@@ -487,7 +487,7 @@ article:nth-of-type(4) > section section {
 
 article:nth-of-type(4) section div:first-of-type img {
 	width: 50vw;
-	background-image: url(./img/tile-brown-triangles.avif);
+	background-image: url(../img/tile-brown-triangles.avif);
 	background-size: 20%;
 	border-radius: 40rem;
 	overflow: auto;
@@ -498,7 +498,7 @@ article:nth-of-type(4) section div:first-of-type img {
 /*Fifth article*/
 
 article:nth-of-type(5) {
-	background-image: url(./img/trailer-background-large.avif);
+	background-image: url(../img/trailer-background-large.avif);
 	background-size: 120%;
 	padding-top: 1rem;
 	background-repeat: no-repeat;
@@ -521,7 +521,7 @@ article:nth-of-type(5) section:nth-of-type(2) {
 }
 
 article:nth-of-type(5) section:last-of-type div {
-	background-image: url(./img/tile-divider-3.png);
+	background-image: url(../img/tile-divider-3.png);
 	background-repeat: repeat;
 	height: 1.9rem;
 	width: 100%;
@@ -555,13 +555,13 @@ main > div {
 	background-position: center;
 	width: 100%;
 	height: 89vw;
-	background-image: url(./img/featured-art.avif);
+	background-image: url(../img/featured-art.avif);
 }
 
 /*Sixth and final article*/
 
 article:nth-of-type(6) {
-	background-image: url(./img/tile-brown-triangles.avif);
+	background-image: url(../img/tile-brown-triangles.avif);
 	background-size: 20vw;
 	padding: 1rem;
 	display: flex;
@@ -602,7 +602,7 @@ article:nth-of-type(6) p {
 /*Form*/
 
 article:nth-of-type(7) {
-	background-image: url(./img/tile-beige.avif);
+	background-image: url(../img/tile-beige.avif);
 	padding: 8vw 8vw 10rem 8vw;
 
 	h2 {
