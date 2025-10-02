@@ -22,17 +22,15 @@
   ### Je opdracht:
   [Legend of Zelda: Echoes of Wisdom](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch)
 
-<<<<<<< Updated upstream
   #### Screenshot(s) van de eerste pagina (small screen):
   <img src="readme-images/lozeow.png" width="375px" alt="">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <img src="readme-images/lozeow1.png" width="375px" alt="">
-=======
+  
   #### Screenshot van de pagina (small screen): 
   Nummer Selectie Pagina  
   <img src="readme-images/ssmp.png" width="375px" alt="nummer selectie scherm">
->>>>>>> Stashed changes
  
 </details>
 
@@ -44,7 +42,7 @@
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
-  Veel errors vanwege onconfentionele tags, waarschijnlijk door
+  Veel errors vanwege onconfentionele tags, waarschijnlijk door compatibiliteit met server-side datacollectie en het tegengaan van piraten
 
 </details>
 
@@ -68,70 +66,6 @@
 
 </details>
 
-## Voortgang 1 (week 2)
-
-<details>
-  <summary>uitwerken voor 1<sup>e</sup> voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
-
-
-
-
-
-## Voortgang 2 (week 3)
-
-<details>
-  <summary>uitwerken voor 2<sup>e</sup> voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-- ...
-
-</details>
-
-
-
 
 
 ## Toegankelijkheidstest 2/2 (week 4)
@@ -141,42 +75,12 @@
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  De HTML bestand is nogsteeds niet geldig, maar dit keer voor een meer duidelijke reden.
+  De site bestaat vooral uit decoratie images dus voor veel gebruikte ik een null alt.
+  Er is geen audio bij de videos dus ik liet ze automatisch afspelen en herhalen.
+  Buttons en links hebben zelden een stilistisch verschil.
 
 </details>
-
-
-
-
-
-## Voortgang 3 (week 4)
-
-<details>
-  <summary>uitwerken voor 3<sup>e</sup> voortgang</summary>
-
-  ### Stand van zaken
-  hier dit ging goed & dit was lastig (neem ook screenshots op van delen van je website en code)
-
-
-  ### Agenda voor meeting
-  samen met je groepje opstellen
-
-  | student 1      | student 2          | student 3    | student 4        |
-  | ---            | ---                | ---          | ---              |
-  | dit bespreken  | en dit             | en ik dit    | en dan ik dat    |
-  | en dat ook nog | dit als er tijd is | nog een punt | dit wil ik zeker |
-  | ...            | ...                | ...          | ...              |
-
-
-  ### Verslag van meeting
-  hier na afloop snel de uitkomsten van de meeting vastleggen
-
-  - punt 1
-  - punt 2
-  - nog een punt
-  - ...
-
-</details>
-
 
 
 
@@ -203,7 +107,11 @@
 </details>
 
 
+## Voorgangs gesprekken!
 
+<details>
+  Eruit gehaald vanwegen een mix van vergeten en weinig boeien ¯\_(ツ)_/¯
+</details>
 
 
 ## Bronnenlijst
@@ -211,12 +119,6 @@
 <details open>
   <summary>continu bijhouden terwijl je werkt</summary>
 
-  Nb. Wees specifiek ('css-tricks' als bron is bijv. niet specifiek genoeg). 
-  Nb. ChatGpT en andere AI horen er ook bij.
-  Nb. Vermeld de bronnen ook in je code.
-
-  1. bron 1
-  2. bron 2
-  3. ...
+  1. Alle assets (videos & plaatjes) genomen van de officiele site van (Legend of Zelda: Echoes of Wisdom van) Nintendo
 
 </details>
