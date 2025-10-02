@@ -91,19 +91,19 @@
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/resultah.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/resultah.png" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
   Animated Carrousel
 
-  <img src="readme-images/carrousel.jpg" width="375px" alt="top">
+  <img src="readme-images/carrousel.png" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
   Cursor Decoratie :(
 
-  <img src="readme-images/curdec.jpg" width="375px" alt="bummer">
+  <img src="readme-images/curdec.png" width="375px" alt="bummer">
 </details>
 
 
