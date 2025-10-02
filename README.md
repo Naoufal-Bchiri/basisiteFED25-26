@@ -91,33 +91,31 @@
   <summary>uitwerken voor eindgesprek</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="uitomst opdracht 1">
+  <img src="readme-images/resultah.jpg" width="375px" alt="uitomst opdracht 1">
 
 
   ### Dit ging goed/Heb ik geleerd: 
-  Korte omschrijving met plaatjes
+  Animated Carrousel
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="top">
+  <img src="readme-images/carrousel.jpg" width="375px" alt="top">
 
 
   ### Dit was lastig/Is niet gelukt:
-  Korte omschrijving met plaatjes
+  Cursor Decoratie :(
 
-  <img src="readme-images/dummy-plaatje.jpg" width="375px" alt="bummer">
+  <img src="readme-images/curdec.jpg" width="375px" alt="bummer">
 </details>
 
 
 ## Voorgangs gesprekken!
 
-<details>
-  Eruit gehaald vanwegen een mix van vergeten en weinig boeien ¯\_(ツ)_/¯
-</details>
+Eruit gehaald vanwegen een mix van vergeten en weinig boeien ¯\\(ツ)/¯
 
 
 ## Bronnenlijst
 
 <details open>
-  <summary>continu bijhouden terwijl je werkt</summary>
+  <summary>Lijst</summary>
 
   1. Alle assets (videos & plaatjes) genomen van de officiele site van (Legend of Zelda: Echoes of Wisdom van) Nintendo
 
