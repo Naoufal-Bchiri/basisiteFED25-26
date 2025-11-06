@@ -36,29 +36,29 @@
 ## Toegankelijkheidstest 1/2 (week 1)
 
 <details>
-  <summary>uitwerken na test in 2<sup>e</sup> werkgroep</summary>
+  <summary>Details</summary>
 
   ### Bevindingen
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   Veel errors vanwege onconfentionele tags, waarschijnlijk door een benodigdheid om het compatibel met server-side scraping
-  
+  The website was made with a design first perspective leaving no focus for functionality or accessibility. It does exceed at portraying the cool visuals but it is unfortunately literally not made for everyone.
 </details>
 
 ## Breakdownschets (week 1)
 
 <details>
-  <summary>uitwerken na afloop 3<sup>e</sup> werkgroep</summary>
+  <summary>Details</summary>
 
-  ### de hele pagina: 
+  ### De hele pagina: 
   <img src="readme-images/breakdownbreakdown.png" width="375px" alt="breakdown van de hele pagina">
 
-  ### dynamisch deel (bijv menu):
+  ### Dynamisch deel:
   Mobile only menu
   
   <img src="readme-images/nintendomobilemenu.png" width="375px" alt="breakdown van een dynamisch deel">
 
-  ### wellicht nog een dynamisch deel (bijv filter):
+  ### Nog een dynamisch deel:
   Bewegend met scroll
   
   <img src="readme-images/racinghonse.png" width="375px" alt="breakdown van nog een dynamisch deel">
@@ -74,7 +74,7 @@
 ## Toegankelijkheidstest 2/2 (week 4)
 
 <details>
-  <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
+  <summary>Details</summary>
 
   ### Bevindingen
   <img src="readme-images/WCAGCS1.jpg" width="375px" alt="">
@@ -97,7 +97,7 @@
 ## Eindgesprek (week 5)
 
 <details>
-  <summary>uitwerken voor eindgesprek</summary>
+  <summary>Details</summary>
 
   ### Je uitkomst - karakteristiek screenshots:
   <img src="readme-images/resultah.png" width="375px" alt="uitomst opdracht 1">
