@@ -22,18 +22,15 @@
   ### Je opdracht:
   [Legend of Zelda: Echoes of Wisdom](https://www.nintendo.com/us/store/products/the-legend-of-zelda-echoes-of-wisdom-switch)
 
-<<<<<<< Updated upstream
   #### Screenshot(s) van de eerste pagina (small screen):
   <img src="readme-images/lozeow.png" width="375px" alt="">
 
   #### Screenshot(s) van de tweede pagina (small screen):
   <img src="readme-images/lozeow1.png" width="375px" alt="">
-=======
+
   #### Screenshot van de pagina (small screen): 
   Nummer Selectie Pagina  
   <img src="readme-images/ssmp.png" width="375px" alt="nummer selectie scherm">
->>>>>>> Stashed changes
- 
 </details>
 
 ## Toegankelijkheidstest 1/2 (week 1)

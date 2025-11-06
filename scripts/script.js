@@ -12,3 +12,11 @@ function navMenTogg() {
     navMenXSVG.classList.toggle("hide")
     navMenButtSVG.classList.toggle("hide")
 }
+
+const fish = document.querySelector("article:nth-of-type(3) section div:nth-of-type(2) article img")
+
+fish.onclick = movFsh
+
+function movFsh() {
+    fish.classList.add("fshMv")
+}

@@ -78,6 +78,7 @@ header svg {
 
 header svg path {
 	fill: rgb(72, 72, 72);
+	transition: .1s;
 }
 
 header svg:hover path, header button:focus svg path, header a:focus svg path {
@@ -165,14 +166,25 @@ header nav:last-of-type div:first-of-type path {
 	fill: white;
 }
 
-.shop li a {
-	path {
-		fill: rgb(230, 0, 18);
-	}
+.shop li {
+	margin: .4rem 0;
 
-	svg {
-		margin: 0 1rem 0 .4rem ;
+	a {
+		transition: .2s;
+		box-shadow: .1rem .1rem .2rem rgb(75, 75, 75);
+
+		path {
+			fill: rgb(230, 0, 18);
+		}
+
+		svg {
+			margin: 0 1rem 0 .4rem ;
+		}
 	}
+}
+
+.shop li:hover a, .shop li a:focus {
+	box-shadow: .2rem .2rem .3rem rgb(75, 75, 75);
 }
 
 .shop li:first-of-type a {
@@ -354,6 +366,8 @@ article:nth-of-type(3) section:last-of-type {
 	flex-direction: column;
 	background-image: url(../img/tile-blue.avif);
 	width: 100%;
+	overflow: hidden;
+	padding-top: 6rem;
 }
 
 article:nth-of-type(3) article video {
@@ -361,12 +375,71 @@ article:nth-of-type(3) article video {
 	margin: 1.5rem;
 	width: 80%;
 	min-width: 35vw;
+	transition: .1s;
+}
+
+article:nth-of-type(3) article video:hover {
+	width: 90%;
 }
 
 article:nth-of-type(3) article img {
 	max-width: 100%;
 	height: auto;
 	margin-bottom: -3rem;
+}
+
+article:nth-of-type(3) section:first-of-type > img {
+	position: relative;
+	min-height: 200px;
+	z-index: 1;
+}
+
+article:nth-of-type(3) section:first-of-type > img::before {
+	position: absolute;
+	content: "";
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-image: linear-gradient(
+		to bottom,
+		hsl(344, 100%, 50%),
+		hsl(31, 100%, 40%)
+	);
+	z-index: -1;
+	transition: 0.5s linear;
+	opacity: 0;
+}
+
+article:nth-of-type(3) section:first-of-type > img:hover::before {
+	opacity: 1;
+}
+
+article:nth-of-type(3) section div:nth-of-type(2) article .fshMv {
+	animation-name: fishMove;
+  	animation-duration: 7s;
+	animation-iteration-count: 1;
+	animation-timing-function: cubic-bezier(.86,-0.45,.67,.91);
+}
+
+@keyframes fishMove {
+	25% {
+		translate: -80vw;
+		transform: scaleX(1);
+	}
+
+	50% {
+		transform: scaleX(-1);
+	}
+
+	66% {
+		transform: scaleX(-1);
+		translate: 80vw;
+	}
+
+	67% {
+		transform: scaleX(1);
+	}
 }
 
 article:nth-of-type(3) section > img, article:nth-of-type(3) section div:first-of-type > img, article:nth-of-type(3) section div:nth-of-type(2) > img {
@@ -422,6 +495,16 @@ article:nth-of-type(3) > div div, article:nth-of-type(3) section:last-of-type di
 	}
 }
 
+
+
+
+
+
+
+
+
+
+
 /*Fourth article*/
 
 article:nth-of-type(4) {
@@ -464,7 +547,12 @@ article:nth-of-type(4) ul {
 
 article:nth-of-type(4) ul img {
 	width: 80%;
-	border: .5rem solid rgb(102, 51, 51);;
+	border: .5rem solid rgb(102, 51, 51);
+	transition: .2s;
+}
+
+article:nth-of-type(4) ul img:hover {
+	width: 90%;
 }
 
 article:nth-of-type(4) li {
@@ -485,14 +573,28 @@ article:nth-of-type(4) > section section {
 	flex-direction: column;
 }
 
-article:nth-of-type(4) section div:first-of-type img {
-	width: 50vw;
+article:nth-of-type(4) section div:first-of-type {
 	background-image: url(../img/tile-brown-triangles.avif);
 	background-size: 20%;
 	border-radius: 40rem;
-	overflow: auto;
-	margin-top: -4rem;
-	position: relative;
+	height: 60vw;
+	width: 60vw;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+
+	img {
+		width: 50vw;
+		overflow: auto;
+		position: relative;
+		transition: 1s;
+	}
+}
+
+article:nth-of-type(4) section div:first-of-type:hover img {
+	width: 60vw;
+	height: 60vw;
+	rotate: 360deg;
 }
 
 /*Fifth article*/
@@ -505,7 +607,7 @@ article:nth-of-type(5) {
 }
 
 article:nth-of-type(5) section:first-of-type {
-	background-color: rgba(255, 255, 255, 0.6);
+		background-color: rgba(255, 255, 255, 0.6);
 	padding: 2rem 0;
 }
 
@@ -575,7 +677,7 @@ article:nth-of-type(6) img:first-of-type {
 }
 
 article:nth-of-type(6) img:last-of-type {
-	width: 30vw;
+	width: 12rem;
 	align-self: start;
 	animation-name: honse;
 	animation-timeline: view();
@@ -584,7 +686,7 @@ article:nth-of-type(6) img:last-of-type {
 
 @keyframes honse {
 	100% {
-		translate: 220% 0;
+		translate: 50vw 0;
 	}
 }
 
