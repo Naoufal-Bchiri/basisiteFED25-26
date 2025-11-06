@@ -42,7 +42,7 @@
   Lijst met je bevindingen die in de test naar voren kwamen:
 
   Veel errors vanwege onconfentionele tags, waarschijnlijk door een benodigdheid om het compatibel met server-side scraping
-
+  
 </details>
 
 ## Breakdownschets (week 1)
@@ -77,7 +77,11 @@
   <summary>uitwerken na test in 9<sup>e</sup> werkgroep</summary>
 
   ### Bevindingen
-  Lijst met je bevindingen die in de test naar voren kwamen (geef ook aan wat er verbeterd is):
+  <img src="readme-images/WCAGCS1.jpg" width="375px" alt="">
+  <img src="readme-images/WCAGCS2.jpg" width="375px" alt="">
+  <img src="readme-images/WCAGCS3.jpg" width="375px" alt="">
+  <img src="readme-images/WCAGCS4.jpg" width="375px" alt="">
+  <img src="readme-images/WCAGCS5.jpg" width="375px" alt="">
 
 </details>
 
